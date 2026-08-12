@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Omotayo Odupitan
 
 Software engineer. I build and ship production software for remote teams — web, mobile, CLI, AI, and enterprise systems.
