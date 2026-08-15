@@ -2,7 +2,7 @@
 
 Software engineer. I build and ship production software for remote teams — web, mobile, CLI, AI, and enterprise systems.
 
-I like owning work end-to-end — from the interface through the API to deploy and monitoring. Most of my time has been on SaaS and enterprise platforms: payments, marketplaces, customs/trade, telecom, and internal tools that have to stay up.
+I like owning work end-to-end: from the interface through the API to deployment and monitoring. Most of my time has been on SaaS and enterprise platforms: payments, marketplaces, customs/trade, telecom, and internal tools that have to stay up.
 
 **Lagos** · remote (EU / US overlap) · [LinkedIn](https://www.linkedin.com/in/omotayo-odupitan/) · [nerdyorion@gmail.com](mailto:nerdyorion@gmail.com)
 
